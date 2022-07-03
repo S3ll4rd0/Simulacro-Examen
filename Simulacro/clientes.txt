@@ -1,0 +1,2 @@
+Nombre: Tonet, día de llegada: 1, día de salida: 6
+Nombre: Juan, día de llegada: 5, día de salida: 9
